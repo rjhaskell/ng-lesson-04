@@ -1,0 +1,24 @@
+{
+  "name": "typescriptclasstemplate",
+  "description": "template project for typescript and angular",
+  "main": "",
+  "authors": [
+    "Bryan Wood <whenidev@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/itanex/TypeScriptClasses",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/lib",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-ui-router": "^0.4.2",
+    "bootstrap": "^3.3.7"
+  }
+}

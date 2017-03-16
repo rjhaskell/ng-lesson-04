@@ -1,0 +1,86 @@
+[
+    {
+        "title": "10-Yard Fight",
+        "na_releaseDate": "1985-10-18T00:00:00.00",
+        "eu_releaseDate": "1985-12-06T00:00:00.00",
+        "publisher": "Nintendo"
+    },
+    {
+        "title": "1942",
+        "na_releaseDate": "1986-11-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "Capcom"
+    },
+    {
+        "title": "1943: The Battle of Midway",
+        "na_releaseDate": "1988-10-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "Capcom"
+    },
+    {
+        "title": "The 3-D Battles of WorldRunner",
+        "na_releaseDate": "1987-09-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "Acclaim Entertainment"
+    },
+    {
+        "title": "720°",
+        "na_releaseDate": "1989-11-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "Mindscape"
+    },
+    {
+        "title": "8 Eyes",
+        "na_releaseDate": "1990-01-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "Taxan"
+    },
+    {
+        "title": "Abadox",
+        "na_releaseDate": "1990-03-01T00:00:00.00",
+        "eu_releaseDate": "1988-04-06T00:00:00.00",
+        "publisher": "Milton Bradley Company"
+    },
+    {
+        "title": "The Addams Family",
+        "na_releaseDate": "1992-01-01T00:00:00.00",
+        "eu_releaseDate": "1992-12-01T00:00:00.00",
+        "publisher": "Ocean Software"
+    },
+    {
+        "title": "The Addams Family: Pugsley's Scavenger Hunt",
+        "na_releaseDate": "1993-08-01T00:00:00.00",
+        "eu_releaseDate": "1992-01-01T00:00:00.00",
+        "publisher": "Ocean Software"
+    },
+    {
+        "title": "Advanced Dungeons & Dragons: DragonStrike",
+        "na_releaseDate": "1992-07-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "FCI"
+    },
+    {
+        "title": "Advanced Dungeons & Dragons: Heroes of the Lance",
+        "na_releaseDate": "1991-01-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "FCI"
+    },
+    {
+        "title": "Advanced Dungeons & Dragons: Hillsfar",
+        "na_releaseDate": "1993-02-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "FCI"
+    },
+    {
+        "title": "Advanced Dungeons & Dragons: Pool of Radiance",
+        "na_releaseDate": "1992-04-01T00:00:00.00",
+        "eu_releaseDate": "Unreleased",
+        "publisher": "FCI"
+    },
+    {
+        "title": "Adventure Island",
+        "na_releaseDate": "1988-09-01T00:00:00.00",
+        "eu_releaseDate": "1992-01-01T00:00:00.00",
+        "publisher": "Hudson Soft"
+    }
+]

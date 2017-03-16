@@ -1,0 +1,36 @@
+<h1>Game List</h1>
+<table class="table table-striped">
+    <tbody>
+        <tr ng-repeat="game in vm.gameList | filter: { publisher: vm.filterData }">
+            <td>{{game.title}}</td>
+            <td><span>{{game.na_releaseDate | date : 'MMMM yyyy'}}</span></td>
+            <td><span>{{game.eu_releaseDate | date : 'MMMM yyyy'}}</span></td>
+            <td>{{game.publisher}}</td>
+            <td>
+                <a ui-sref="GameDetail({ id: $index })">
+                    View Details
+                </a>
+            </td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>North American Release</th>
+            <th>European Release</th>
+            <th>Publisher</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>
+                <div class="input-group input-group-sm">
+                    <span class="input-group-addon glyphicon glyphicon-filter" title="filter by publisher"></span>
+                    <input type="text" class="form-control" ng-model-options="{ debounce: 100 }" ng-model="vm.filterData">
+                </div>
+            </th>
+            <th></th>
+    </thead>
+</table>
